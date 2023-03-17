@@ -1,0 +1,2 @@
+let left = event.clientX - fieldCoords.left - field.clientLeft;
+let left = event.clientX - fieldCoords.left - field.clientLeft - ball.offsetWidth/2;

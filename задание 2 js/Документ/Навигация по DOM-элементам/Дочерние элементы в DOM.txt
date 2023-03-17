@@ -1,0 +1,8 @@
+1.
+document.body.firstElementChild
+
+2.
+document.body.lastElementChild
+
+3.
+document.body.lastElementChild.lastElementChild

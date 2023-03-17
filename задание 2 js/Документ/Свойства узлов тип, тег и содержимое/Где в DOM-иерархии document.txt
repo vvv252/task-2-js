@@ -1,0 +1,2 @@
+1. HTMLDocument
+2. HTMLDocument.prototype.__proto__.__proto__.constructor.name
